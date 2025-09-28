@@ -49,3 +49,6 @@ This project demonstrates deploying and running a batch job using HashiCorp Noma
 ---
 
 
+## References
+
+Nomad Official Documentation : https://developer.hashicorp.com/nomad/docs
